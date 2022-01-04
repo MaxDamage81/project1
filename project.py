@@ -1,2 +1,2 @@
-x="test string"
+x="test string2"
 print(x)
