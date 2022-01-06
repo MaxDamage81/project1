@@ -1,2 +1,2 @@
-x="test string2"
-print(x)
+import sys
+#print('\n'.join(sys.path))
